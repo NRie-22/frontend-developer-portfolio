@@ -165,10 +165,9 @@ html, body {
 
 .dark-mode-btn {
     order: 9;
-
     position: relative;
     display: flex;
-    justify-content: space-between;
+    align-items: center; /* Добавлено для отцентрирования */
 
     width: 51px;
     height: 26px;
@@ -412,6 +411,15 @@ html, body {
     display: flex;
     column-gap: 30px;
     align-items: center;
+}
+
+.social__item {
+    width: 28px;
+}
+
+.social__item img {
+    width: 100%;
+    height: auto;
 }
 
 .copyright {
