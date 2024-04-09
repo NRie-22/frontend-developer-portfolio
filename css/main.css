@@ -201,6 +201,7 @@ html, body {
 .dark-mode-btn__icon {
     position: relative;
     z-index: 9;
+    margin-right: 5px;
 }
 
 /* Header */
