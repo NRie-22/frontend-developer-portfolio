@@ -13,16 +13,16 @@ Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width
 ### TaskFusion
 https://tarasdeveloper.github.io/TaskFusion-frontend/
 <br>Technologies used -
-Frontend: React, Vite, Redux, Swiper, Axios, Yup, Formik, Notiflix, HTML5, CSS, Javascript;
+Frontend: React, Vite, Redux, Swiper, Axios, Yup, Formik, Notiflix, HTML5, CSS, Javascript, Trello, Figma;
 Backend: Node.js, MongoDB, Swagger.
 
 ### Cinemania
 https://tarasdeveloper.github.io/cinemania/#modal-team
-<br>Made by team with: Parcel, html, scss, javascript, trello.
+<br>Made by team with: Parcel, HTML5, SCSS, Javascript, Trello, Figma.
 
 ### Mimino
 https://nrie-22.github.io/gp-team-project/
-<br>Made by team with: Vite, HTML5, scss, javascript, trello.
+<br>Made by team with: Vite, HTML5, SCSS, Javascript, Trello, Figma.
 
 ## Personal Projects
 
