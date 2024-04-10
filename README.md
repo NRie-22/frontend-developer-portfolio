@@ -10,37 +10,32 @@ Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width
 
 ## Group Projects
 
-### Project Name 1
-- TaskFusion
+### TaskFusion
 https://tarasdeveloper.github.io/TaskFusion-frontend/
-Technologies used -
+<br>Technologies used -
 Frontend: React, Vite, Redux, Swiper, Axios, Yup, Formik, Notiflix, HTML5, CSS, Javascript;
 Backend: Node.js, MongoDB, Swagger.
 
-### Project Name 2
-- Cinemania
+### Cinemania
 https://tarasdeveloper.github.io/cinemania/#modal-team
-Made by team with: Parcel, html, scss, javascript, trello.
+<br>Made by team with: Parcel, html, scss, javascript, trello.
 
-### Project Name 3
-- Mimino
+### Mimino
 https://nrie-22.github.io/gp-team-project/
-Made by team with: Vite, HTML5, scss, javascript, trello.
+<br>Made by team with: Vite, HTML5, scss, javascript, trello.
 
 ## Personal Projects
 
-### Project Name 1
-- BeautyStyle
+### BeautyStyle
 https://www.beautystyle.com.pl/#pl
-Site owner and manager.
+<br>Site owner and manager.
 Technologies used - HTML5, CSS, Javascript.
 
-### Project Name 2
-- Frontend-developer-portfolio 
+### Portfolio
 https://nrie-22.github.io/frontend-developer-portfolio/
-Technologies used - HTML5, CSS, Javascript.
+<br>Technologies used - HTML5, CSS, Javascript.
 
-### Project Name 3
-- WebStudio
+
+### WebStudio
 https://nrie-22.github.io/WebStudio/
-Technologies used - HTML5, CSS, Javascript, Figma.
+<br>Technologies used - HTML5, CSS, Javascript, Figma.
