@@ -167,8 +167,8 @@ html, body {
     order: 9;
     position: relative;
     display: flex;
-    align-items: center; /* Добавлено для отцентрирования */
-
+    align-items: center; 
+    justify-content: center;
     width: 51px;
     height: 26px;
     padding: 5px;
