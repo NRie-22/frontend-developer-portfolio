@@ -488,13 +488,13 @@ html, body {
     width: 28px;
 }
 
-.social__item a {
-    color: inherit; /* Унаследуйте цвет текста */
-    transition: color 0.3s; /* Плавное изменение цвета при наведении */
+.social__item {
+    width: 28px;
+    transition: background-color 0.3s; 
 }
 
-.social__item a:hover img {
-    filter: brightness(1.5); /* Увеличивает яркость изображения при наведении */
+.social__item:hover {
+    background-color: yellow; 
 }
 
 
