@@ -2,8 +2,10 @@
   "name": "frontend-developer-portfolio",
   "version": "1.0.0",
   "description": "Frontend Developer Portfolio",
-  "main": "main.js", 
-    "start": "node main.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
   "keywords": [
     "developer"
   ],
