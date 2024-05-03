@@ -480,14 +480,20 @@ html, body {
 
     /* Social */
 
-    .social {
-        column-gap: 20px;
-    }
+.social {
+    column-gap: 20px;
+}
 
-    .social__item {
-        width: 28px;
-    }
-    .social__item a:hover {
+.social__item {
+    width: 28px;
+}
+
+.social__item a {
+    color: inherit; /* Унаследуйте цвет текста */
+    transition: color 0.3s; /* Плавное изменение цвета при наведении */
+}
+
+.social__item a:hover {
     color: yellow; /* Измените на желтый цвет или любой другой по вашему выбору */
 }
 
