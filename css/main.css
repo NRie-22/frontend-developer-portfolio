@@ -487,5 +487,8 @@ html, body {
     .social__item {
         width: 28px;
     }
+    .social__item a:hover {
+    color: yellow; /* Измените на желтый цвет или любой другой по вашему выбору */
+}
 
 }

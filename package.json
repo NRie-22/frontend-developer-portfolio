@@ -1,0 +1,12 @@
+{
+  "name": "frontend-developer-portfolio",
+  "version": "1.0.0",
+  "description": "Frontend Developer Portfolio",
+  "main": "main.js", 
+    "start": "node main.js",
+  "keywords": [
+    "developer"
+  ],
+  "author": "Nataliya Rieger",
+  "license": "ISC"
+}
