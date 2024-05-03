@@ -493,8 +493,9 @@ html, body {
     transition: color 0.3s; /* Плавное изменение цвета при наведении */
 }
 
-.social__item a:hover {
-    color: yellow !important; /* Измените на желтый цвет или любой другой по вашему выбору */
+.social__item a:hover img {
+    filter: brightness(1.5); /* Увеличивает яркость изображения при наведении */
 }
+
 
 }
