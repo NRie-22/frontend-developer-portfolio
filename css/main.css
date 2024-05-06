@@ -487,12 +487,5 @@ html, body {
 .social__item {
     width: 28px;
 }
-.social__item a {
-    color: inherit; 
-    transition: color 0.3s; 
-}
 
-.social__item a:hover img {
-    filter: brightness(0.7);
-}
 }
