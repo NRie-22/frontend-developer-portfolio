@@ -26,11 +26,6 @@ https://nrie-22.github.io/gp-team-project/
 
 ## Personal Projects
 
-### BeautyStyle
-https://www.beautystyle.com.pl/#pl
-<br>Site owner and manager.
-Technologies used - HTML5, CSS, Javascript.
-
 ### Portfolio
 https://nrie-22.github.io/frontend-developer-portfolio/
 <br>Technologies used - HTML5, CSS, Javascript.
