@@ -33,7 +33,7 @@ font-family: 'Poppins', sans-serif;
 
 .dark {
      /* Dark mode */
-    --page-bg: #252526;
+    --page-bg: #262630;
     --text-color: var(--white);
     --title-1: var(--white);
     --project-card-bg: var(--black);
