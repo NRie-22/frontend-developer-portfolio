@@ -11,11 +11,11 @@ font-family: 'Poppins', sans-serif;
 } */
 
 :root {
-    --blackpure: #060606;
+    --blackpure: #29272c;
     --black: #171718;
     --black-border: #26292D;
-    --white: #fff;
-    --purple: #070c91;
+    --white: #faf8f8;
+    --purple: #2228c5d7;
     --text-color: var(--black);
     --dark-bg: var(--black);
     --dark-border: var(--black-border);
